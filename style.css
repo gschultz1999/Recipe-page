@@ -9,15 +9,17 @@
     background-color: hsl(30, 77%, 88%);
     justify-content: center;
     align-items: center;
+    height: 100vh;
 }
 
 .hero-container {
     display: flex;
     flex-direction: column;
-    max-width: 40rem;
+    max-width: 60rem;
     border-radius: 1rem;
     background-color: white;
     padding: 2rem;
+    margin: auto 0;
 }
 
 img {
