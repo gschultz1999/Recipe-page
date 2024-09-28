@@ -15,11 +15,12 @@
 .hero-container {
     display: flex;
     flex-direction: column;
-    max-width: 60rem;
+    max-width: 30rem;
     border-radius: 1rem;
     background-color: white;
     padding: 2rem;
     margin: auto 0;
+    height: auto;
 }
 
 img {
