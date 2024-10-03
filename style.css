@@ -82,12 +82,13 @@ select {
     justify-content: center;
     align-items: center;
     min-height: 100svh;
+    letter-spacing: 0.1rem;
 }
 
 .hero-container {
     display: flex;
     flex-direction: column;
-    max-width: 30rem;
+    max-width: 50rem;
     border-radius: 1rem;
     background-color: white;
     padding: 1.5rem;
@@ -130,6 +131,7 @@ article {
 
 .prep {
     font-weight: 700;
+    margin-left: 1rem;
 }
 
 .prep-container {
@@ -138,7 +140,6 @@ article {
 }
 
 .prep-container li {
-    margin-left: 2rem;
     padding-bottom: 1rem;
 }
 
